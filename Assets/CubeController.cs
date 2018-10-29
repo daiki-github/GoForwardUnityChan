@@ -24,7 +24,7 @@ public class CubeController : MonoBehaviour {
 		}
 	}
 	void OnCollisionEnter2D(Collision2D other){
-		if (other.gameObject.tag == "unitychan2D") {
+		if (other.gameObject.tag == "Unitychan2D") {
 
 		} else {
 			gameObject.GetComponent<AudioSource> ().Play ();
