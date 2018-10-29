@@ -1005,6 +1005,14 @@ Prefab:
       propertyPath: m_TagString
       value: UnityChan2D
       objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: e3ff126a806b2454eaff021fe39cea19, type: 2}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: e3ff126a806b2454eaff021fe39cea19, type: 2}
+      propertyPath: m_PlayOnAwake
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 11400002, guid: e3ff126a806b2454eaff021fe39cea19, type: 2}
     - {fileID: 11400000, guid: e3ff126a806b2454eaff021fe39cea19, type: 2}
